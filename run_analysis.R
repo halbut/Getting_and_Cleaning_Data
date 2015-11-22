@@ -1,6 +1,6 @@
 library(plyr)
 
-setwd("~/Documents/New/Getting_and_Cleaning_Data/Getting_and_Cleaning_Data_repo")
+#setwd("~/Documents/New/Getting_and_Cleaning_Data/Getting_and_Cleaning_Data_repo")
 
 dataDir <- "./UCI_HAR_Dataset/"
 
